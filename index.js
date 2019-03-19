@@ -5,8 +5,8 @@ const { ImagePickerManager } = NativeModules;
 const DEFAULT_OPTIONS = {
   title: 'Select a Photo',
   cancelButtonTitle: 'Cancel',
-  takePhotoButtonTitle: 'Take Photo…',
-  chooseFromLibraryButtonTitle: 'Choose from Library…',
+  takePhotoButtonTitle: 'Take Photo',
+  chooseFromLibraryButtonTitle: 'Choose from Library',
   quality: 1.0,
   allowsEditing: false,
   permissionDenied: {
